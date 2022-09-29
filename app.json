@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppFiscalia",
+    "slug": "AppFiscalia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppFiscalia"
+}
